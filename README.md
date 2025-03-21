@@ -120,7 +120,6 @@ htmlwidgets::saveWidget(p4, "sales_pie_3d.html")
 cat("3D pie chart saved to:", getwd(), "/sales_pie_3d.html\n")
 
 
-
 ## Requirements
 - **R**: Version 4.3.x or later recommended.
 - **R Packages**: `dplyr`, `ggplot2`, `plotly`, `gganimate`, `gifski`, `leaflet`, `htmlwidgets`
