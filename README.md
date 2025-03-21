@@ -3,7 +3,7 @@
 Welcome to **`Volvo-SAP-R-Visualizations`**, a showcase of advanced data visualizations in RStudio! This project leverages simulated Volvo truck sales, pricing, and delivery data to create four cutting-edge plots, demonstrating my data science skills and passion for enhancing SAP SD processes. Inspired by my goal to secure a Senior SAP SD Solution Consultant role in Sweden, these visualizations bridge my expertise with practical, Volvo-relevant applications.
 
 ## Motivation
-I built this project to explore how AI-driven insights can enhance SAP SD processes like sales forecasting, pricing optimization, and delivery scheduling. Using RStudio, I transformed mock datasets into interactive and animated visualizations, showcasing trends and relationships that could inform Volvo’s operations. This is part of my broader relocation journey to Sweden, documented in my [`Sweden-Relocation-Playbook`](https://github.com/yourusername/Sweden-Relocation-Playbook).
+I built this project to explore how AI-driven insights can enhance SAP SD processes like sales forecasting, pricing optimization, and delivery scheduling. Using RStudio, I transformed mock datasets into interactive and animated visualizations, showcasing trends and relationships that could inform Volvo’s operations. This is part of my broader relocation journey to Sweden, documented in my [Volvo-SAP-SD-AI-Forecasting]().
 
 ## Visualizations
 
